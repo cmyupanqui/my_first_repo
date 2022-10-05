@@ -13,5 +13,6 @@ name = 'Carlos'
 **To do**
 
 - [x] Un cafecito
-- [ ] Descargar MS Visual Studio
+- [x] Descargar MS Visual Studio
 - [ ] Hacer la tarea de Sof
+
