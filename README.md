@@ -16,3 +16,11 @@ name = 'Carlos'
 - [x] Descargar MS Visual Studio
 - [ ] Hacer la tarea de Sof
 
+# Fri 10/7/2022
+
+**To do**
+
+- [x] Python class
+- [ ] SAIC tickets
+- [ ] Finish RB in sandbox
+- [ ] Reboot laptop -test launching via cli
