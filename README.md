@@ -24,3 +24,7 @@ name = 'Carlos'
 - [ ] SAIC tickets
 - [ ] Finish RB in sandbox
 - [ ] Reboot laptop -test launching via cli
+
+# Wed 10/12/2022
+- [x] Coffee refill
+- [ ] Breakfast
